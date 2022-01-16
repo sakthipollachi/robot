@@ -87,3 +87,4 @@ VOLUME ${ROBOT_EXECUTION_DIR}/test_results
 USER ${ROBOT_UID}:${ROBOT_GID}
 
 CMD ["python"]
+
